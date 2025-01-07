@@ -1,0 +1,116 @@
+[
+    {
+        "setId": "set-1",
+        "setName": "Saiyan Saga",
+        "setUrl": "https://dbzoutpost.com/collections/saiyan-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/saiyan_360x.png?v=1674235414"
+    },
+    {
+        "setId": "set-2",
+        "setName": "Frieza Saga",
+        "setUrl": "https://dbzoutpost.com/collections/frieza-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/frieza_360x.png?v=1674235437"
+    },
+    {
+        "setId": "set-3",
+        "setName": "Androids Saga",
+        "setUrl": "https://dbzoutpost.com/collections/androids-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/androids_360x.png?v=1674235457"
+    },
+    {
+        "setId": "set-4",
+        "setName": "Trunks Saga",
+        "setUrl": "https://dbzoutpost.com/collections/trunks-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/trunks_360x.png?v=1674235475"
+    },
+    {
+        "setId": "set-5",
+        "setName": "Cell Saga",
+        "setUrl": "https://dbzoutpost.com/collections/cell-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/cell_360x.png?v=1674235498"
+    },
+    {
+        "setId": "set-6",
+        "setName": "Cell Games Saga",
+        "setUrl": "https://dbzoutpost.com/collections/cell-games-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/cellgames_360x.png?v=1674235513"
+    },
+    {
+        "setId": "set-7",
+        "setName": "World Games Saga",
+        "setUrl": "https://dbzoutpost.com/collections/world-games-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/worldgames_360x.png?v=1674235534"
+    },
+    {
+        "setId": "set-8",
+        "setName": "Babidi Saga",
+        "setUrl": "https://dbzoutpost.com/collections/babidi-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/babidi_360x.png?v=1674235575"
+    },
+    {
+        "setId": "set-9",
+        "setName": "Buu Saga",
+        "setUrl": "https://dbzoutpost.com/collections/buu-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/buu_360x.png?v=1674235558"
+    },
+    {
+        "setId": "set-10",
+        "setName": "Fusion Saga",
+        "setUrl": "https://dbzoutpost.com/collections/fusion",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/fusion_360x.png?v=1674235602"
+    },
+    {
+        "setId": "set-11",
+        "setName": "Kid Buu Saga",
+        "setUrl": "https://dbzoutpost.com/collections/kid-buu-saga",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/kid-buu_360x.png?v=1674235623"
+    },
+    {
+        "setId": "set-12",
+        "setName": "Score Preview",
+        "setUrl": "https://dbzoutpost.com/collections/score-preview-1",
+        "setImage": "https://dbzoutpost.com/cdn/shop/products/PR1_4164681c-bb07-43e0-ac3a-635ee93fb516_360x.png?v=1605368397"
+    },
+    {
+        "setId": "set-13",
+        "setName": "Score Promo",
+        "setUrl": "https://dbzoutpost.com/collections/score-promo",
+        "setImage": "https://dbzoutpost.com/cdn/shop/products/P1_56296185-82f2-4ce5-bc5c-f82001c827f3_360x.png?v=1623793199"
+    },
+    {
+        "setId": "set-14",
+        "setName": "Expansion Promo",
+        "setUrl": "https://dbzoutpost.com/collections/expansion-promo",
+        "setImage": "https://dbzoutpost.com/cdn/shop/products/BK1_360x.png?v=1609687436"
+    },
+    {
+        "setId": "set-15",
+        "setName": "Trunks Reforged",
+        "setUrl": "https://dbzoutpost.com/collections/trunks-reforged",
+        "setImage": "https://dbzoutpost.com/cdn/shop/products/3_1092db4a-1a0a-4165-845e-eb00f1f1f8af_360x.png?v=1606315962"
+    },
+    {
+        "setId": "set-16",
+        "setName": "Miscellaneous",
+        "setUrl": "https://dbzoutpost.com/collections/miscellaneous",
+        "setImage": "https://dbzoutpost.com/cdn/shop/products/K1_132d0243-ce47-427a-b9ca-8861340cda76_360x.png?v=1606315952"
+    },
+    {
+        "setId": "set-17",
+        "setName": "Grand Kai Invitational (GKI)",
+        "setUrl": "https://dbzoutpost.com/collections/gki",
+        "setImage": "https://dbzoutpost.com/cdn/shop/collections/card-comingsoon_98ea9214-bd58-4925-b494-5949d5dd6eb0_360x.png?v=1606066132"
+    },
+    {
+        "setId": "set-18",
+        "setName": "Puzzle / Inserts",
+        "setUrl": "https://dbzoutpost.com/collections/puzzle-inserts",
+        "setImage": "https://dbzoutpost.com/cdn/shop/products/android18_360x.png?v=1605722527"
+    },
+    {
+        "setId": "set-19",
+        "setName": "Swords & Scouters",
+        "setUrl": "https://dbzoutpost.com/collections/swords-scouters",
+        "setImage": "https://dbzoutpost.com/cdn/shop/products/scouter-red_360x.png?v=1583686523"
+    }
+]
