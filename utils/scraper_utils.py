@@ -60,19 +60,28 @@ def parse_sets(html_content):
 
 def get_pagination_urls(initial_url):
     """
-    Fetch all pagination URLs for a given set.
+    Generate all pagination URLs for a given set by determining the total number of pages.
     """
     pagination_urls = [initial_url]
     html_content = fetch_html(initial_url)
     soup = BeautifulSoup(html_content, "html.parser")
 
+    # Find the last page number in the pagination
     pagination_elements = soup.select("ul.pagination-custom a")
+    max_page = 1  # Default to 1 if no pagination is found
+
     for element in pagination_elements:
-        raw_url = element.get("href")
-        if raw_url:
-            full_url = urljoin(BASE_URL, raw_url)
-            if full_url not in pagination_urls:
-                pagination_urls.append(full_url)
+        try:
+            page_number = int(element.text.strip())
+            max_page = max(max_page, page_number)
+        except ValueError:
+            # Skip if the element's text is not a number
+            continue
+
+    # Generate all page URLs based on the max page number
+    for page_number in range(2, max_page + 1):  # Start from page 2
+        full_url = f"{initial_url}?page={page_number}"
+        pagination_urls.append(full_url)
 
     return pagination_urls
 
